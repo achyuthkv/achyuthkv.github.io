@@ -148,7 +148,7 @@ Responsive media queries
 #about {
 /*  background: url('../img/about-banner.jpg') no-repeat;
 */  background-size: cover;
-  margin-bottom: -3px;
+margin-top: 70px;
 }
 
 .section-padding {
@@ -167,7 +167,7 @@ Responsive media queries
 }
 
 .about-text p {
-  color: #444;
+  color:  #fdf5a7;
 }
 
 .abt-list li {
