@@ -148,7 +148,7 @@ Responsive media queries
 #about {
 /*  background: url('../img/about-banner.jpg') no-repeat;
 */  background-size: cover;
-margin-top: 70px;
+/*margin-top: 10px;*/
 }
 
 .section-padding {
